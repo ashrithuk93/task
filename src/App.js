@@ -26,7 +26,7 @@ const App = () => {
   };
 
   let content = (
-    <p style={{ textAlign: 'center' }}>Testing Github Connect, Test 2</p>
+    <p style={{ textAlign: 'center' }}>Testing Github Connect, Test 3</p>
   );
 
   if (courseGoals.length > 0) {
